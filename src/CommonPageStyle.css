@@ -1,0 +1,17 @@
+
+.CommonPageStyle{
+    width:740px;
+    margin:auto;
+    background-color:white;
+    text-align:center;
+    font-family: 'Amaranth', serif;
+    padding:5em 2em 6em 2em;
+    box-shadow: 5px 5px 5px 5px #dddddd, -5px 5px 5px 5px #dddddd;
+}
+
+@media only screen and (max-width: 740px) {
+    .CommonPageStyle {
+      width: 100%;
+      padding:5em 2em 6em 2em;
+    }
+  }
