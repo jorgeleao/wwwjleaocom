@@ -8,7 +8,7 @@ const Projects = () => (
              marginLeft: 'auto',
              marginRight: 'auto',
              textAlign: 'center',
-             backgroundColor: '#eaeaea',
+             backgroundColor: 'white',
              height:'1200px',
              paddingTop:'90px'
          }}>
@@ -47,7 +47,7 @@ const Projects = () => (
                     <li>Software developer of a mobile robot project. The intended use was to enable the telepresence of an engineer 
                         on a civil construction site. The project was conducted by Carlos Alexandre Coelho Mathias – 
                         Programa FAPERJ: Projetos de Inovação Tecnológica – Edital E26/190.007/2010 (SISTEMA MÓVEL DE INFORMAÇÃO REMOTA INTERATIVA)).
-                         The robot was a server and the operator's station was a client and both were connected to the Internet. 
+                         The robot was a server and the operator's station was a client and both were connected by the Internet.
                          We used the JavaMedia Framework which used an implementation of RTP and RTCP. Data and control were exchanged with a 
                          simple confirmation layer on top of UDP. 
                     </li><br />
@@ -58,7 +58,7 @@ const Projects = () => (
                          system for the Santo Antonio generation station, at Porto Velho, Rondonia, Brazil, in 2011.
                          </li><br />
                     <li>Architect and developer of a Web system to store electrical energy consumption data for a great number of clients.
-                         The measurements are made at a 1 minute interval and sent to a server on the Internet. The server also presents a 
+                         The measurements are made at a 1 minute interval and sent to a server on the Internet. The system has a
                          friendly user interface to present consumption data to clients. In 2016. 
                     </li>     
                 </ul>
