@@ -26,7 +26,7 @@ const Footer = () => (
         <a href="https://www.linkedin.com/in/jorge-l-s-le%C3%A3o-9a019113/"
            title="https://www.linkedin.com/in/jorge-l-s-le%C3%A3o-9a019113/" target="_blank"
            rel="noreferrer noopener" style={{textDecoration: 'none'}}>
-            <img src="010-linkedin.png" width="40px" alt=""/>
+            <img src="010-linkedin.white.png" width="40px" alt=""/>
         </a>
         &nbsp;&nbsp;
 
