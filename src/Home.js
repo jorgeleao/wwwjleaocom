@@ -10,7 +10,7 @@ const Home = () => (
              marginRight: 'auto',
              textAlign: 'center',
              backgroundColor: '#eaeaea',
-             height:'1300px'
+             height:'750px'
          }}>
         <div style={{height: '300px', backgroundImage: 'url("vscode.react.04.png")'}}>
             <div style={{

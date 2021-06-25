@@ -3,7 +3,7 @@ import styled from "styled-components";
 const PageStyle = styled.header`
   .pageClass {
     width: 800px;
-    height:1100px;
+    height:1600px;
     position:relative;
     top:0;
     margin-left: auto;
