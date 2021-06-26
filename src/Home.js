@@ -1,24 +1,15 @@
 import React from "react";
 import PageStyle from './PageStyle.js';
-import "./CommonPageStyle.css";
 
 const Home = () => (
-    <div className='home'
-         style={{
-             width: '100%',
-             marginLeft: 'auto',
-             marginRight: 'auto',
-             textAlign: 'center',
-             backgroundColor: '#eaeaea',
-             height:'750px'
-         }}>
+    <div>
         <div style={{height: '300px', backgroundImage: 'url("vscode.react.04.png")'}}>
             <div style={{
                 position: 'relative',
                 top: '120px',
                 textAlign: 'center',
                 color: 'white',
-                fontSize: '1.8em',
+                fontSize: '1.4em',
                 fontStyle: 'italic',
                 fontWeight: 'bold'
             }}>Full-stack Web Development, Data Science, IoT,<br/>Online Courses

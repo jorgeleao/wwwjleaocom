@@ -4,15 +4,7 @@ import PageStyle from './PageStyle.js';
 import "./CommonPageStyle.css";
 
 const About = () => (
-    <div className='about'
-         style={{
-             width: '100%',
-             marginLeft: 'auto',
-             marginRight: 'auto',
-             textAlign: 'center',
-             backgroundColor: '#eaeaea',
-             height: '800px'
-         }}>
+    <div>
         <PageStyle>
             <div className='pageClass'>
                 <div style={{backgroundColor: 'white', paddingTop: '70px'}}>

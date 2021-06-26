@@ -4,21 +4,13 @@ import "./CommonPageStyle.css";
 
 
 const Projects = () => (
-    <div className='projects'
-         style={{
-             width: '100%',
-             marginLeft: 'auto',
-             marginRight: 'auto',
-             textAlign: 'center',
-             backgroundColor: '#eaeaea',
-             height: '1600px'
-         }}>
+    <div>
         <PageStyle>
             <div className='pageClass'>
-                <div style={{backgroundColor: 'white', paddingTop: '70px'}}>
+                <div style={{backgroundColor: 'white', padding: '70px 0 100px 0'}}>
                     <p style={{textAlign: 'center'}}>A list of selected projects I developed while at COPPE/UFRJ</p>
                     <br/>
-                    <ul style={{margin: '0'}}>
+                    <ul style={{margin: '0',textAlign:'left'}}>
                         <li>Project COPPETEC 1803: Chief engineer for the development of hardware and basic software of
                             a Subcooling Monitoring System for the Reactor Core of the Angra-1 Nuclear Power Station.
                             Since July 1986 to August 2008 (22 years), the system has been operational 24 hours a day,
