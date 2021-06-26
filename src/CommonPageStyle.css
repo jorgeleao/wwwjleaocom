@@ -1,11 +1,12 @@
 
 .CommonPageStyle{
     width:740px;
-    margin:auto;
     background-color:white;
-    text-align:center;
-    font-family: 'Amaranth', serif;
-    padding:5em 2em 6em 2em;
+    padding:5em 2em 10em 2em;
+    margin:0 auto 0 auto;
+    border:1px solid black;
+    text-align: center;
+    font-size: 2em;
     box-shadow: 5px 5px 5px 5px #dddddd, -5px 5px 5px 5px #dddddd;
 }
 
